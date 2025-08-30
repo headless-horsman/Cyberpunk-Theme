@@ -2149,11 +2149,11 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF9090" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00FF9F" />
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2161,15 +2161,15 @@
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00E0B0" />
       </Color>
       <Color Name="enum member name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF00A40B" />
       </Color>
       <Color Name="constant name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF95A8E8" />
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2177,7 +2177,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFE9400" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2185,15 +2185,15 @@
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF267FC2" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFFF85C1" />
       </Color>
       <Color Name="event name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF7C7C7C" />
       </Color>
       <Color Name="namespace name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2201,7 +2201,7 @@
       </Color>
       <Color Name="label name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFF7B411" />
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_INVALID" Source="00000000" />
